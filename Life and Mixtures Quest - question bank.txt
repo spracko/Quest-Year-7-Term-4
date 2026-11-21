@@ -1,0 +1,622 @@
+# Life & Mixtures Quest - Year 7 Term 4 question bank (Chapter 3: Cells and classification; Chapter 4: Solutions and mixtures)
+# 587 questions: 382 multiple choice, 146 vocabulary, 59 numerical. Same lines as DEFAULT_BANK in the HTML. Kept separate from the AT4 exam questions.
+# ===== CHAPTER 3: CELLS AND CLASSIFICATION =====
+# MULTIPLE CHOICE: chapter | difficulty (1-4) | question | CORRECT answer | wrong 1 | wrong 2 | wrong 3 | one-line explanation
+# 3.1 Characteristics of living things
+3|1|How many biological characteristics must an organism have to be called living?|Seven|Three|Five|Ten|Growth, movement, nutrition, reproduction, response to stimuli, respiration and waste removal: all seven are needed.
+3|1|All living things are made of…|Cells|Crystals|Only water|Metal atoms|Every living thing is made of one or more cells.
+3|1|Living things are made of molecules that contain which element?|Carbon|Gold|Helium|Neon|Carbon-containing molecules are one of the three key features shared by all living things.
+3|1|A frog develops from a tadpole. Which characteristic of living things is this?|Growth|Respiration|Waste removal|Nutrition|Growth means getting bigger and developing over time.
+3|1|A magpie eating worms is an example of which characteristic?|Nutrition|Respiration|Movement|Reproduction|Nutrition means taking in nutrients, for example by eating food.
+3|1|Breathing out carbon dioxide is an example of which characteristic?|Waste removal|Nutrition|Growth|Reproduction|Carbon dioxide is a waste product of respiration, so breathing it out is waste removal.
+3|1|Which tool lets scientists see the cells that make up living things?|A microscope|A carbon dioxide probe|Digital scales|A measuring cylinder|Microscopes magnify objects so tiny cells can be seen.
+3|2|Which characteristic means converting nutrients into energy inside cells?|Respiration|Reproduction|Nutrition|Waste removal|Respiration happens in cells and releases energy from nutrients such as glucose.
+3|2|A koala sneaks into the shade when the afternoon gets hot. Which characteristic does this show?|Response to stimuli|Reproduction|Nutrition|Growth|A change in the environment (heat) causes a response (moving to shade).
+3|2|Fire uses fuel and spreads, but scientists say it is non-living. Why?|It does not respond to stimuli|It is too hot to be alive|It is not green|It cannot move|Something must show all seven characteristics, and fire does not respond to stimuli.
+3|2|A mouse is sealed in a container. Which equipment would show that it is respiring?|A carbon dioxide probe|Digital scales|A thermometer|A magnifying glass|An increase in carbon dioxide in the air shows the animal is respiring.
+3|2|A scientist weighs a seedling every week on digital scales. Which characteristic is being checked?|Growth|Respiration|Response to stimuli|Waste removal|An increasing mass shows that the organism is growing.
+3|2|A plant turns its leaves to face the sun. Which characteristic does the textbook use this to show?|Movement|Waste removal|Reproduction|Respiration|Plants can move parts of themselves, such as turning their leaves towards the light.
+3|3|A robot vacuum moves, avoids walls and uses energy. Why is it still non-living?|It is not made of cells and cannot grow or reproduce|It moves too slowly to count|It is made of plastic|It only moves in straight lines|Living things must be made of cells and show all seven characteristics, including growth and reproduction.
+# 3.2 Classifying living things
+3|1|What is classification?|Sorting things into groups|Measuring the mass of things|Naming every individual animal|Counting cells under a microscope|Classification places similar things in the same group.
+3|1|What is the science of classifying organisms called?|Taxonomy|Geology|Astronomy|Meteorology|Taxonomy is the science of sorting and arranging living things into groups.
+3|1|A biologist who specialises in classifying living things is called a…|Taxonomist|Meteorologist|Geologist|Astronomer|Taxonomists work in taxonomy, the science of classifying organisms.
+3|1|Animals that eat only plants are called…|Herbivores|Carnivores|Omnivores|Predators|Herbivores eat only plants, and carnivores eat only meat.
+3|1|Your school library sorts its books using the…|Dewey Decimal Classification system|Linnaean system|Five-kingdom system|Periodic table|Libraries use the Dewey Decimal system to sort books by subject.
+3|1|Sorting rubbish into paper, glass and plastic is an example of…|Classification|Respiration|Filtration|Evaporation|Putting similar things into the same group is classification.
+3|2|Geologists classify rocks as sedimentary, igneous or metamorphic based on…|How they formed and their minerals|Their colour only|How heavy they are|Where they were found|Every science uses classification. Geologists group rocks by how they formed and what minerals they contain.
+3|2|Astronomers classify objects in space using properties such as…|Size, density and whether they give off light|Number of legs and wings|Type of cell wall|How they reproduce|Astronomers sort stars, planets and other objects by their observable properties.
+3|2|Which is a reason biologists classify living things?|To identify newly discovered organisms|To make organisms grow faster|To stop species from changing|To give every animal a nickname|New plants, insects, fish and bacteria are found every year, and classification helps identify them.
+3|1|Classification helps biologists work out…|How different species are related|How heavy a species will grow|What colour a species should be|When a species will die out|Grouping organisms by their features shows which ones are closely related.
+3|3|A cat and a lion look different, but classification shows they are related. How?|They share many features, so they sit in the same higher groups|They have exactly the same body size|They live in the same habitat|They have the same common name|Classification groups organisms by shared features, so related animals share the same higher levels.
+# 3.3 The Linnaean classification system
+3|1|Who first proposed the system that scientists use to classify species?|Carolus Linnaeus|Robert Hooke|Isaac Newton|Marie Curie|Swedish naturalist Carolus Linnaeus proposed the system in 1753.
+3|1|How many levels does the Linnaean classification system have?|Eight|Five|Seven|Three|Domain, kingdom, phylum, class, order, family, genus and species.
+3|1|Which is the broadest level of the Linnaean system?|Domain|Species|Genus|Family|The domain is at the top, and its groups are the biggest.
+3|1|Which is the most specific level of the Linnaean system?|Species|Kingdom|Phylum|Domain|Species is at the bottom and names one specific type of living thing.
+3|1|In the five-kingdom system we use in class, mushrooms belong to kingdom…|Fungi|Plantae|Animalia|Protista|Mushrooms and moulds are fungi, not plants.
+3|1|What is the scientific name of the brush-tailed rock wallaby?|Petrogale penicillata|Penicillata petrogale|Setonix brachyurus|Macropus petrogale|Petrogale is its genus and penicillata is its species name.
+3|1|A scientific name is made of how many words?|Two|One|Three|Eight|Every species has a two-word name: genus then species.
+3|1|Which level comes directly after kingdom?|Phylum|Class|Order|Genus|The order is domain, kingdom, phylum, class, order, family, genus, species.
+3|1|Which level comes directly before family?|Order|Class|Genus|Phylum|Order sits above family, and genus sits below it.
+3|1|Which level comes directly before species?|Genus|Family|Order|Class|Genus is the second-last level, and it is the first word of a scientific name.
+3|2|Which list of levels is in the correct order, from broadest?|Kingdom, phylum, class, order|Kingdom, class, phylum, order|Phylum, kingdom, order, class|Order, class, phylum, kingdom|A memory trick: "Kings Play Chess On Fine Grain Sand" (after domain).
+3|2|As you move down the levels from domain to species, the groups become…|Smaller and more specific|Larger and more general|Exactly the same size|Only plants|Each level down contains fewer, more similar organisms.
+3|2|Domains and kingdoms are separated mainly by differences in…|Cell structure|Colour|Diet|Body size|The top levels are based on what the organisms' cells are like.
+3|2|Which list shows the five kingdoms we use in class?|Animalia, Plantae, Fungi, Protista, Bacteria|Animalia, Plantae, Insects, Fish, Birds|Mammals, Reptiles, Birds, Fish, Amphibians|Domain, Kingdom, Phylum, Class, Order|These five kingdoms are the broad groups for all living things. (The textbook figure shows six because it splits bacteria in two.)
+3|2|A gum tree, a fern and a moss all belong to kingdom…|Plantae|Fungi|Protista|Animalia|All three are plants: they are many-celled and make their own food by photosynthesis.
+3|1|Which description fits kingdom Plantae?|Many-celled organisms that make their own food from sunlight|Single cells with no nucleus|Organisms that must eat other organisms|Organisms that absorb food from rotting matter|Plants use chloroplasts and sunlight to make their own food.
+3|2|Single-celled organisms that DO have a nucleus, such as an amoeba, belong to kingdom…|Protista|Bacteria|Fungi|Plantae|Protists are mostly single cells with a nucleus. Bacteria have no nucleus.
+3|1|In a scientific name, the first word is the…|Genus|Species|Family|Kingdom|The genus comes first and starts with a capital letter.
+3|1|Which scientific name is set out correctly?|Setonix brachyurus|setonix brachyurus|Setonix Brachyurus|SETONIX brachyurus|The genus has a capital letter, the species is lower case, and the name is shown in italics.
+3|2|When you write a scientific name by hand, you should…|Underline it|Write it in capitals|Put it in brackets|Put it in quotation marks|Typed names go in italics, and handwritten names are underlined.
+3|2|Scientific names usually use Latin or ancient Greek because these languages…|Do not change over time|Are spoken by most people|Are shorter than English|Were invented by Linnaeus|These languages are no longer commonly used, so word meanings stay the same.
+3|1|Animals in phylum Chordata all have…|A cord along their back|Six legs|An exoskeleton|Feathers|Chordata means animals with a cord along their back.
+3|1|Marsupials are mammals that have…|A pouch|Feathers|Gills|Six legs|Kangaroos, wallabies and quokkas are marsupials: their young grow in a pouch.
+3|2|The domain Eukaryota contains organisms whose cells…|Are specialised and have a nucleus|Have no nucleus|Have no DNA|Are made of metal|Eukaryotic cells are complex cells with a nucleus.
+3|3|The quokka is Setonix brachyurus. What is its genus?|Setonix|brachyurus|Macropodidae|Mammalia|The first word of a scientific name is always the genus.
+3|3|Eucalyptus regnans and Eucalyptus globulus are both trees. What do they share?|The same genus|The same species|The same common name|Nothing at all|The same first word in a scientific name means the same genus.
+3|3|Quokkas and kangaroos are both in family Macropodidae. What does this tell us?|They are closely related|They are the same species|They are in different classes|They are not mammals|Organisms that share a lower level such as family are closely related.
+3|3|Wallabies and kangaroos are grouped as macropods because they have…|Large hind legs and long tails|Pouches on their backs|Scales and claws|Wings and beaks|Macropod means "big foot": large hind legs and long tails.
+3|3|Why is it important that all scientists use the same classification system?|So they can compare findings and collaborate|So they can keep secrets|So every animal has five names|So new species are never found|A shared system lets scientists share information and work together.
+# 3.4 Classification keys
+3|1|What does 'dichotomous' mean?|Divided into two parts|Having many branches|Having no legs|Living in water|A dichotomous key gives two choices at each step.
+3|1|What is a classification key used for?|Identifying an organism from its features|Measuring an organism's mass|Growing new organisms|Naming the eight levels|Keys use features and behaviours to work out what an organism is.
+3|1|'Arthropod' means…|Jointed feet|Many eyes|Soft body|No bones|All arthropods have jointed legs and an exoskeleton.
+3|1|Which is the largest group of animals on Earth?|Arthropods|Mammals|Birds|Fish|Arthropods include insects, spiders, crustaceans, centipedes and millipedes.
+3|1|How many body parts does an insect have?|Three|Two|Four|One|Insects have a head, thorax and abdomen.
+3|2|At each step of a dichotomous key, how many choices are there?|Two|Three|Four|As many as you like|Each step splits the group into two.
+3|2|A good first step in a key uses a feature that is…|Easy to see, such as whether it has a backbone|Very detailed, such as spots on wings|The animal's favourite food|The animal's common name|Keys start with easy, obvious features and get more detailed later.
+3|2|A dichotomous key says "Go to step 4". What should you do?|Jump to step 4, even if it is not the next step|Stop because the animal is unknown|Go back to step 1|Read step 2 next|You do not always go to the next numbered step: follow the directions.
+3|2|Spiders, ticks and scorpions belong to which arthropod class?|Arachnids|Insects|Crustaceans|Millipedes|Arachnids have 8 legs, 2 body parts, no wings and no antennae.
+3|2|Crabs, lobsters and prawns belong to which arthropod class?|Crustaceans|Arachnids|Insects|Centipedes|Crustaceans have 10 legs and 2 pairs of antennae.
+3|2|An arachnid's body has two parts: the abdomen and the…|Cephalothorax|Thorax|Head|Shell|The cephalothorax is the head and thorax joined together.
+3|2|Which arthropods have two pairs of legs on each body segment?|Millipedes|Centipedes|Insects|Arachnids|Millipedes have 2 pairs per segment and centipedes have 1 pair.
+3|1|An exoskeleton is…|A hard skeleton on the outside of the body|A skeleton of bone inside the body|A type of feather|A shell made by plants|"Exo" means outside. Most invertebrates are supported by an exoskeleton.
+3|1|Which of these arthropods has no antennae?|Scorpion|Prawn|Mosquito|Millipede|Arachnids, such as scorpions and spiders, have no antennae.
+3|3|Key: 1a has wings, go to 2. 1b no wings, go to 3. 2a feathers: magpie. 2b no feathers: moth. 3a eight legs: redback. 3b no legs: leech. An animal has no wings and no legs. What is it?|Leech|Moth|Redback|Magpie|No wings sends you to step 3, and no legs gives leech.
+3|3|An arthropod has 8 legs, no wings and no antennae. It is…|An arachnid|An insect|A crustacean|A centipede|Eight legs and no antennae are the clues for an arachnid.
+3|3|An animal has many segments, one pair of legs per segment and a flat body. It is a…|Centipede|Millipede|Spider|Prawn|Centipedes have flat bodies and 1 pair of legs on each segment.
+3|3|An arthropod has 10 legs and 2 pairs of antennae. Which class is it in?|Crustaceans|Insects|Arachnids|Millipedes|Crustaceans such as crabs have 5 pairs of legs and 2 pairs of antennae.
+3|3|Which feature would be least useful in a key to tell insects apart?|Whether it is alive|Number of wings|Pattern on its wings|Shape of its antennae|All the insects are alive, so that feature cannot split the group.
+3|4|A new arthropod has 6 legs, 1 pair of antennae and 2 pairs of wings. What is it most likely related to?|A dragonfly (an insect)|A spider (an arachnid)|A crab (a crustacean)|A millipede|Six legs and one pair of antennae make it an insect, and dragonflies have 2 pairs of wings.
+# 3.5 Classifying animals
+3|1|An animal with a backbone is called a…|Vertebrate|Invertebrate|Arthropod|Bryophyte|Vertebrates have a backbone made of bones called vertebrae.
+3|1|The bones that make up a backbone are called…|Vertebrae|Antennae|Stomata|Spores|The backbone is a column of oddly shaped bones called vertebrae.
+3|1|What does the prefix 'in-' in 'invertebrate' mean?|Not|Inside|Many|Small|Invertebrate means "not a vertebrate": no backbone.
+3|1|Which animal is a vertebrate?|Salmon|Jellyfish|Earthworm|Snail|Salmon are fish, and all fish have a backbone.
+3|1|Which animal is an invertebrate?|Sea star|Frog|Crocodile|Salmon|Sea stars are echinoderms and have no backbone.
+3|2|Which vertebrate class has slimy scales and fins?|Fish|Amphibians|Reptiles|Birds|Fish have slimy scales and use fins to move through water.
+3|2|Which vertebrate class has dry scales and lays leathery eggs?|Reptiles|Amphibians|Fish|Birds|Reptiles such as crocodiles have dry scales and leathery eggs.
+3|2|Which two vertebrate classes produce their own body heat?|Birds and mammals|Fish and reptiles|Amphibians and fish|Reptiles and birds|Fish, amphibians and reptiles gain heat from their surroundings.
+3|2|Young amphibians (tadpoles) have fins, but adult amphibians have…|Legs|Feathers|Wings|Scales|Frogs change from finned tadpoles into adults with legs.
+3|1|Vertebrates belong to which phylum?|Chordata|Arthropoda|Mollusca|Cnidaria|All vertebrates have a nerve cord inside their backbone.
+3|1|Snails, clams and oysters are…|Molluscs|Cnidarians|Annelids|Echinoderms|Molluscs are shelled animals.
+3|1|Jellyfish, coral and anemones are…|Cnidarians|Molluscs|Poriferans|Nematodes|Cnidarians have a soft body with one opening.
+3|2|Sea stars and sea urchins have body parts arranged around a central point. They are…|Echinoderms|Cnidarians|Annelids|Arthropods|Echinoderms also have many tiny 'feet'.
+3|1|Sponges belong to which group?|Poriferans|Molluscs|Echinoderms|Annelids|A sponge is a collection of cells with one opening.
+3|2|About what fraction of animal species are invertebrates?|Around 95%|Around 5%|Around 50%|Around 25%|Invertebrates make up about 95 per cent of animal species.
+3|3|An echidna lays eggs, but has hair and produces its own heat. Which class is it in?|Mammals|Reptiles|Birds|Amphibians|Hair or fur and making its own heat make the echidna a mammal.
+3|3|Birds have scales as well as feathers. Where are their scales?|On their feet|On their wings|On their beaks|Under their feathers|Birds are covered in feathers, with scales on their feet.
+3|3|Which animal gains its body heat from its surroundings?|Crocodile|Kookaburra|Echidna|Dog|Reptiles such as crocodiles warm up by basking.
+3|3|An earthworm is a segmented worm with a round cross-section. Which group is it in?|Annelids|Nematodes|Platyhelminths|Cnidarians|Annelids are segmented, round worms.
+3|3|A tapeworm is a flat worm that lives inside another organism. Which group is it in?|Platyhelminths|Annelids|Molluscs|Poriferans|Platyhelminths are flatworms.
+3|3|Unsegmented round worms such as heartworm are…|Nematodes|Annelids|Platyhelminths|Echinoderms|Nematodes are round and unsegmented and often live inside other organisms.
+3|3|Worms have no exoskeleton. What supports their bodies?|Structures inside their bodies|A backbone|A bony shell|Feathers|Worms are supported by structures inside them instead of a skeleton.
+3|3|A blue whale's skeleton could not hold up its weight on land. Why can it survive in the ocean?|Water pushes up on its body and supports it|It has no skeleton at all|It is an invertebrate|It weighs nothing in water|Buoyancy from the water helps support the whale's huge mass.
+3|4|A new animal has a backbone and feathers, and lays hard-shelled eggs. Which two groups is it definitely in?|Phylum Chordata and class birds|Phylum Arthropoda and class insects|Kingdom Plantae and class mammals|Phylum Mollusca and class reptiles|A backbone puts it in Chordata, and feathers with hard-shelled eggs make it a bird.
+3|4|A student says a snail is an arthropod because it has a shell. What is the best correction?|It is a mollusc; arthropods have jointed legs and an exoskeleton|It is a vertebrate because it has a shell|It is a cnidarian because it is soft|The student is correct|Molluscs are shelled animals, while arthropods have jointed legs.
+# 3.6 Classifying plants
+3|1|Plants that have vascular tissue are called…|Tracheophytes|Bryophytes|Spores|Liverworts|Tracheophytes (vascular plants) have tubes that carry water and nutrients.
+3|1|Mosses and liverworts are examples of…|Bryophytes|Gymnosperms|Angiosperms|Tracheophytes|Bryophytes are non-vascular plants.
+3|1|Which plants produce seeds in cones?|Gymnosperms|Angiosperms|Bryophytes|Ferns|Pines, firs, cycads and ginkgos are gymnosperms.
+3|1|Which plants produce seeds in flowers or fruits?|Angiosperms|Gymnosperms|Bryophytes|Ferns|Angiosperms are the flowering plants.
+3|1|What does vascular tissue do in a plant?|Transports water, sugars and minerals and supports the plant|Makes the plant's spores|Protects seeds in cones|Absorbs sunlight|Vascular tissue works a bit like our blood vessels and bones.
+3|2|Why can't mosses grow very tall?|They have no vascular tissue to support them|They only grow in deserts|They make too many seeds|Their roots are too big|Without internal support, mosses grow as soft coverings on rocks and soil.
+3|1|Bryophytes usually grow where…|Water is freely available|There is no water|It snows all year|There is no sunlight|Bryophytes need water, so they grow near rivers, waterfalls and in rainforests.
+3|1|Ferns reproduce using…|Spores|Seeds in cones|Seeds in fruit|Flowers|Ferns have no seeds. They make spores on the underside of their leaves.
+3|2|Which is the largest group of plants on Earth?|Angiosperms|Gymnosperms|Bryophytes|Ferns|Flowering plants such as grasses, wattles and eucalypts are the largest group.
+3|1|A pine tree is a gymnosperm because it…|Produces seeds in cones|Produces seeds in fruit|Has no vascular tissue|Reproduces with spores|Gymnosperms have naked seeds that develop in cones.
+3|1|Which plant is an angiosperm?|Kangaroo paw|Norfolk Island pine|Moss|Liverwort|The kangaroo paw produces its seeds in flowers.
+3|1|Gymnosperms often have leaves that are…|Needle-like or thin|Huge and floppy|Missing completely|Underground|Pines and firs have needle-like leaves.
+3|1|Most vascular plants reproduce using…|Seeds|Spores|Cones only|Leaves|Seeds have hard outer coats and contain what the plant needs to grow.
+3|3|Why can gymnosperms grow in so many different environments?|Their large root systems reach underground water|They make seeds in fruit|They need no water at all|They have no vascular tissue|Big root systems collect water from deep underground.
+3|3|Wattles, roses, grass and wheat are all…|Angiosperms|Gymnosperms|Bryophytes|Ferns|They all make seeds in flowers or fruits.
+3|3|A plant has no vascular tissue and no true roots or leaves. It is a…|Bryophyte|Gymnosperm|Angiosperm|Tracheophyte|Non-vascular plants such as mosses lack true roots and leaves.
+3|3|Spores need what for fertilisation?|Water|Fire|Wind only|Darkness|This is why spore plants live in damp places.
+3|4|A plant has vascular tissue, grows tall and makes seeds inside fruit. Which description is fully correct?|A tracheophyte and an angiosperm|A bryophyte and an angiosperm|A tracheophyte and a gymnosperm|A bryophyte and a gymnosperm|Vascular tissue means tracheophyte, and seeds in fruit means angiosperm.
+3|4|One textbook caption says "ferns are bryophytes". Why is that wrong?|Ferns have vascular tissue, so they are not bryophytes|Ferns produce seeds in cones|Ferns do not make spores|Ferns are fungi|Bryophytes have no vascular tissue, but ferns do (Table 3.4).
+# 3.7 Adaptations
+3|1|What are the three types of adaptation?|Structural, physiological and behavioural|Solid, liquid and gas|Growth, movement and nutrition|Vascular, seed and spore|Adaptations can be body features, body processes or behaviours.
+3|2|A platypus's thick, waterproof fur is which type of adaptation?|Structural|Behavioural|Physiological|Chemical|A physical feature of the body is a structural adaptation.
+3|2|A wombat runs into its burrow and stops suddenly so a predator crashes into its back end. This is a…|Behavioural adaptation|Structural adaptation|Physiological adaptation|Lucky accident|It is something the wombat does, so it is behavioural.
+3|2|A kangaroo can pause the development of its joey when food is scarce. This is a…|Physiological adaptation|Behavioural adaptation|Structural adaptation|Choice the kangaroo makes|It is a body process controlled by hormones, not a conscious choice.
+3|2|A koala's digestive system lets it eat toxic eucalyptus leaves. This is a…|Physiological adaptation|Behavioural adaptation|Structural adaptation|Learned habit|It is a process inside the body.
+3|2|Eucalyptus leaves have a waxy coating. How does this help the tree?|It keeps moisture in during droughts|It attracts koalas|It makes the leaves heavier|It helps the tree move|The wax stops water escaping in dry conditions.
+3|2|Musk lorikeets nest in eucalyptus trees. What type of adaptation is this?|Behavioural|Structural|Physiological|Vascular|Choosing a safe nest site is something the bird does.
+3|3|How does eating eucalyptus leaves help koalas survive?|Few other animals compete for this food|The leaves are the sweetest food|Koalas can eat meat as well|They never need any water|Eucalyptus is toxic to most animals, so koalas have the food mostly to themselves.
+3|3|Quokkas shelter in thick bush on hot days and come out at night. This is a…|Behavioural adaptation|Structural adaptation|Physiological adaptation|Sign that they are not living|Avoiding the heat by changing when it is active is a behaviour.
+3|4|Which of these is a structural adaptation?|A wombat's reinforced tailbone|A wombat running to its burrow|A kangaroo pausing its pregnancy|A lorikeet choosing a nest|The tailbone is a physical body feature. The others are behaviours or body processes.
+# 3.8 First Nations classification systems
+3|1|The Yolŋu People classify everything in the universe as either…|Dhuwa or Yirritja|Plants or animals|Living or non-living|Vertebrate or invertebrate|The Dhuwa and Yirritja system divides the universe into two halves.
+3|2|Swamp she-oaks, stringybarks and mulga trees are grouped as 'canoe trees' because…|Their bark was used to make canoes|They grow in water|They all have cones|They are the same species|First Nations Peoples often group living things by how they are used.
+3|2|Which is a factor used in First Nations classification systems?|Whether the organism is edible|The organism's Latin name|Its number of chromosomes|The year it was named|Factors include edible or not, venomous or not, size, age, where it lives and its uses.
+3|1|The Yolŋu People live in…|North-east Arnhem Land|Rottnest Island|Tasmania|The Nullarbor Plain|Their Dhuwa and Yirritja system is central to Yolŋu culture.
+3|2|In the Yolŋu system, which things are classified as Dhuwa or Yirritja?|Everything, including seasons, winds, people and land|Only animals|Only plants|Only living things|Everything in the universe belongs to one half or the other.
+3|3|How do First Nations classification systems differ from the Linnaean system?|They link many factors, such as use, value and season|They use only cell structure|They only classify animals|They use Latin names|They are complex webs with criss-crossing connections, based on deep knowledge of Country.
+# 3.9 What are cells?
+3|1|Who first identified cells, in 1665?|Robert Hooke|Carolus Linnaeus|Isaac Newton|Marie Curie|Hooke saw cells while looking at cork through a simple microscope.
+3|1|Which is one part of cell theory?|Cells come from cells that already exist|Cells are made from air and water|Only animals are made of cells|Cells can form from rocks|Cell theory has three parts, and this is one of them.
+3|1|Hooke named cells after…|Tiny rooms that monks sleep in|Prison cells|Honeycomb|Batteries|The little boxes in cork reminded him of monks' small rooms.
+3|2|What was Hooke looking at when he discovered cells?|Cork tree bark|Onion skin|Pond water|His own blood|He studied a thin slice of cork with a simple microscope.
+3|1|What is a scientific theory?|An explanation supported by evidence and repeated tests|A wild guess|A prediction that has never been tested|One scientist's opinion|Cell theory started as a hypothesis and became a theory once evidence supported it.
+3|1|What is the largest known single cell?|An ostrich egg|A red blood cell|A nerve cell|A whale's muscle cell|An unfertilised ostrich egg is one cell about 15 cm wide.
+3|2|'Micro' means small. What does 'scope' mean in 'microscope'?|To see|To cut|Light|Glass|A microscope is a tool for seeing small things.
+3|2|A light microscope works by shining light through…|A very thin slice of tissue|A thick block of wood|A coloured filter only|Your eye first|Samples are usually about 0.01 mm thick so light can pass through.
+3|1|A bacterium is an example of…|A complete organism made of one cell|A tissue|An organ|A multicellular organism|Some organisms, such as bacteria, are just one simple cell.
+3|3|Why can't we see most cells with the naked eye?|Most are only about 0.008 mm wide|They are invisible to light|They are inside our bones|They move too quickly|Red blood cells are 0.008 mm wide: 125 in a line make just 1 mm.
+# 3.10 Cell structures
+3|1|Which organelle is the control centre of the cell?|Nucleus|Cytoplasm|Cell wall|Chloroplast|The nucleus controls the cell's activity and holds its DNA.
+3|1|Where is the DNA found in a plant or animal cell?|In the nucleus|In the cell wall|In the chloroplast|Outside the cell|DNA, the genetic information, is kept inside the nucleus.
+3|1|Plant, animal and fungus cells are all…|Eukaryotic|Prokaryotic|Non-living|Vascular|They are complex cells with a nucleus.
+3|2|Which part controls what enters and leaves a cell?|Cell membrane|Cell wall|Nucleus|Chloroplast|The thin, flexible membrane is like an envelope around a letter.
+3|2|Which two structures do plant cells have that animal cells do not?|Cell wall and chloroplasts|Nucleus and cytoplasm|Cell membrane and nucleus|Cytoplasm and cell membrane|Animal cells don't need them: animals have skeletons and can move to find food.
+3|2|Why don't animal cells need a cell wall?|Animals have a skeleton for support|Animals live in water|Animal cells are too small|Animal cells have chloroplasts instead|Plants need the stiff cell wall for support, but animals have skeletons.
+3|2|Where do plants make sugar using the Sun's energy?|In chloroplasts|In the nucleus|In the cell membrane|In the cell wall|Chloroplasts are the plant cell's food factories.
+3|2|Which three parts are found in animal, plant and fungus cells?|Nucleus, cytoplasm and cell membrane|Cell wall, chloroplast and nucleus|Chloroplast, cytoplasm and cell wall|Stomata, nucleus and cell wall|All eukaryotic cells share these three.
+3|2|Why do scientists stain cells before looking at them?|To make the parts easier to see|To kill the cells|To make them grow|To make them bigger|Stains colour some cell parts so they stand out under a microscope.
+3|1|Bacteria are made of simpler cells called…|Prokaryotic cells|Eukaryotic cells|Palisade cells|Nerve cells|Prokaryotic cells have no nucleus.
+3|3|How is a bacterial cell different from a plant cell?|Its DNA floats freely because it has no nucleus|It has a nucleus but no DNA|It has chloroplasts but no membrane|It is always much larger|Bacteria have DNA but no nucleus to hold it.
+3|3|Which part of a plant cell is hard to see under a light microscope?|Cytoplasm|Nucleus|Cell wall|Chloroplast|Cytoplasm only shows up as a grainy background inside the membrane.
+# 3.11 Chemical reactions in cells
+3|1|Photosynthesis uses carbon dioxide and water to make…|Glucose and oxygen|Carbon dioxide and water|Salt and water|Oxygen and nitrogen|carbon dioxide + water → glucose + oxygen, powered by light.
+3|1|What provides the energy for photosynthesis?|Sunlight|Glucose|Oxygen|Heat from the soil|Chlorophyll absorbs light energy to drive the reaction.
+3|2|Which green pigment absorbs sunlight for photosynthesis?|Chlorophyll|Glucose|Stomata|Cytoplasm|Chlorophyll is found in chloroplasts and makes plants green.
+3|1|What are the products of aerobic respiration?|Carbon dioxide, water and energy|Glucose and oxygen|Oxygen and sunlight|Chlorophyll and water|glucose + oxygen → carbon dioxide + water + energy.
+3|1|In which organelles does respiration happen?|Mitochondria|Chloroplasts|Nucleus|Cell wall|Mitochondria are found in both plant and animal cells.
+3|2|Oxygen made in a leaf escapes through tiny pores called…|Stomata|Spores|Vertebrae|Mitochondria|Stomata are where gases move in and out of leaves.
+3|2|Anaerobic respiration is respiration that happens…|Without oxygen|With extra oxygen|Using sunlight|Only in plants|"An-" means without, and "aerobic" refers to oxygen.
+3|2|Why do muscle cells contain thousands of mitochondria?|They need lots of energy|They make glucose|They need sunlight|They store water|More mitochondria means more respiration and more energy.
+3|2|The only type of energy that cells can use is…|Chemical energy|Sound energy|Light energy|Nuclear energy|Cells use chemical energy from glucose.
+3|3|Why are mitochondria called the 'powerhouse' of the cell?|They turn nutrients into energy the cell can use|They store the cell's DNA|They build the cell wall|They let light into the cell|Mitochondria break down nutrients and release usable energy.
+3|3|Which statement about plants and animals is correct?|Plants photosynthesise and respire, but animals only respire|Animals photosynthesise and respire, but plants only photosynthesise|Only plants respire|Neither respires|All cells respire, but only plants (with chloroplasts) photosynthesise.
+3|3|Mitochondria have a folded inner structure. Why is this useful?|More surface area lets many reactions happen at once|It makes them heavier|It stores more DNA|It lets them photosynthesise|Folds give lots of surface for respiration reactions.
+3|3|Without photosynthesis, humans would not survive. Why?|We need the oxygen and glucose that plants make|Plants remove all our water|We breathe out glucose|Plants make our bones|We breathe oxygen from plants and eat food that started as glucose in leaves.
+3|4|How are photosynthesis and aerobic respiration linked?|The products of one are the reactants of the other|They both happen only in animals|They both release oxygen|They both need chlorophyll|Photosynthesis makes glucose and oxygen, and respiration uses them to make carbon dioxide and water.
+# 3.12 Cells, tissues and organs
+3|1|A unicellular organism is made of…|One cell|Many cells|Two cells|No cells|"Uni" means one.
+3|2|Which is the correct order of organisation, from smallest?|Cell, tissue, organ, organ system|Organ, cell, tissue, organ system|Tissue, cell, organ system, organ|Organ system, organ, tissue, cell|organelle → specialised cell → tissue → organ → organ system → organism.
+3|1|What is the job of red blood cells?|Transport oxygen and nutrients around the body|Send messages around the body|Form the outer layer of skin|Make glucose|Red blood cells carry oxygen to every part of the body.
+3|2|Which plant cell carries water from the roots to the stem and leaves?|Xylem cell|Phloem cell|Palisade cell|Epidermal cell|Xylem carries water up, and phloem carries sugar around.
+3|2|Which plant cell transports sugar around the plant?|Phloem cell|Xylem cell|Palisade cell|Red blood cell|Phloem moves the sugar made in the leaves.
+3|2|Palisade cells contain lots of chlorophyll so they can…|Carry out photosynthesis|Transport water|Send messages|Form skin|Palisade cells sit near the top of the leaf to catch sunlight.
+3|2|Which human cell transmits messages around the body?|Nerve cell|Red blood cell|Epidermal cell|Palisade cell|Nerve cells carry signals between the brain and body.
+3|1|When cells differentiate, they…|Change to do a particular job|Die|Join into one big cell|Lose their nucleus|Specialised cells form as a multicellular organism grows.
+3|1|The heart is an example of…|An organ|A single cell|An organelle|A single tissue|An organ is made of two or more tissues and has a specific job.
+3|3|The heart's muscle layer is made of cardiac tissue. What is cardiac tissue made of?|Cardiac muscle cells|Nerve cells only|Small organs|Palisade cells|Cells form tissues, and tissues form organs.
+3|3|Why do scientists use electron microscopes to compare specialised cells?|They magnify far more and show the organelles|They are cheaper|They show colours better|They let you watch animals moving|Electron microscopes show which organelles are present and how many.
+3|3|Every multicellular organism starts as…|A single cell|A tissue|Several organs|An organ system|One cell divides many times, and the new cells differentiate.
+# 3.13 The quokka
+3|1|Where do most quokkas live?|Rottnest Island, Western Australia|Kangaroo Island, South Australia|Tasmania|The Great Barrier Reef|About 10 000 quokkas live on Rottnest Island.
+3|1|Quokkas eat plants. This makes them…|Herbivores|Carnivores|Omnivores|Decomposers|Quokkas eat grasses, leaves and berries.
+3|1|Which family is the quokka in?|Macropodidae|Setonix|Mammalia|Chordata|Macropodidae is a family. Setonix is a genus, Mammalia a class and Chordata a phylum.
+3|2|Quokkas give birth to live young. Which characteristic of living things is this?|Reproduction|Growth|Nutrition|Respiration|Producing offspring is reproduction.
+3|3|Early Europeans described the quokka as "a kind of rat". Why is that wrong?|Quokkas are marsupials (macropods), not rats|Quokkas are reptiles|Quokkas are invertebrates|Quokkas lay eggs|Quokkas have a pouch and big hind legs, like kangaroos and wallabies.
+3|3|Quokkas, kangaroos and wallabies are closely related. Which shared level shows this best?|Family Macropodidae|Kingdom Animalia|Domain Eukaryota|Phylum Chordata|The lower the level they share, the more closely related organisms are.
+# ===== CHAPTER 4: SOLUTIONS AND MIXTURES =====
+# 4.1 States of matter
+4|1|Matter is anything that…|Has mass and takes up space|Is alive|Can be seen with your eyes|Is a liquid|Solids, liquids and gases are all matter.
+4|1|What are the three main states of matter?|Solid, liquid and gas|Element, compound and mixture|Solute, solvent and solution|Hot, warm and cold|Water can be solid ice, liquid water or water vapour.
+4|1|Which state of matter has a fixed shape and a fixed volume?|Solid|Liquid|Gas|All three states|Strong attractions keep a solid's particles in place.
+4|1|Which state of matter has a fixed volume but takes the shape of its container?|Liquid|Solid|Gas|None of them|Liquid particles can slide past each other, so a liquid flows to fit its container.
+4|1|Which state of matter can be squashed (compressed) easily?|Gas|Solid|Liquid|None of them|Gas particles have big spaces between them.
+4|1|Which substance is found naturally on Earth as a solid, a liquid and a gas?|Water|Iron|Oxygen|Salt|Water is the only substance found naturally in all three states.
+4|1|Pure water freezes into ice below…|0 °C|100 °C|4 °C|−79 °C|Below 0 °C, water molecules lock into a rigid crystal structure.
+4|1|Pure water boils at…|100 °C|0 °C|50 °C|4 °C|At 100 °C, water particles have enough energy to break free as a gas.
+4|2|Why can a gas be compressed?|There are large spaces between its particles|Its particles shrink when squeezed|Its particles are tightly packed|It has no particles|In a smaller volume, gas particles just have less room to move.
+4|1|The particles in a solid…|Vibrate in fixed positions|Do not move at all|Move freely in all directions|Slide past each other|Solid particles are packed tightly but never completely still.
+4|1|The particles in a solid are packed like…|Bricks in a wall|Marbles rolling in a bowl|Bees flying in a field|Cars on a highway|Closely packed and in fixed positions, like bricks.
+4|2|Why does a liquid take the shape of its container?|Its particle attractions are too weak to hold a shape|Its particles are fixed in place|It has no particles|Its particles push each other away|Liquid particles are attracted to each other but can still move past one another.
+4|2|What is the most common form of water on Earth?|Liquid|Solid|Gas|Plasma|Most of Earth's water is liquid, in oceans, rivers and lakes.
+4|1|The air we breathe is…|A mixture of gases|A pure element|A single compound|A solid|Air contains oxygen, nitrogen, carbon dioxide and other gases.
+4|2|Which is sometimes called the fourth state of matter?|Plasma|Foam|Jelly|Glass|Plasma is a very hot, charged gas, found in stars and lightning.
+4|3|In the crushing-can demo, a can of steam is flipped into cold water and crushes. Why?|The steam condenses, leaving far fewer gas particles pushing outwards|The cold water melts the metal|The steam particles grow bigger|The can gains mass|Cooling turns the gas into a tiny amount of liquid, so the air outside pushes the can in.
+# 4.2 Particle theory and water
+4|1|According to particle theory, all matter is made of…|Tiny particles that are always moving|Cells|One big solid piece|Water|Particles are atoms or molecules, too small to see.
+4|2|Dry ice turns straight from a solid into a gas. This is called…|Sublimation|Evaporation|Melting|Condensation|Sublimation skips the liquid state.
+4|2|Changing straight from a gas into a solid is called…|Deposition|Sublimation|Freezing|Condensation|Deposition is the opposite of sublimation.
+4|1|Dry ice is the solid form of…|Carbon dioxide|Water|Oxygen|Nitrogen|At very low temperatures, carbon dioxide becomes a solid.
+4|1|What is between the particles of matter?|Empty space|Glue|Water|More cells|Particle theory says there is empty space between constantly moving particles.
+4|2|What happens to particles when heat energy is added?|They vibrate and move more|They stop moving|They get bigger|They join together|Extra energy lets particles overcome the forces holding them together.
+4|2|Bridges have gaps called expansion joints because metal…|Expands in hot weather|Shrinks in hot weather|Melts in summer|Rusts in the rain|Heated particles move more and spread out, so the metal gets slightly bigger.
+4|1|A molecule is…|Two or more atoms chemically bonded together|A single proton|A type of mixture|A large crystal|Water molecules have one oxygen and two hydrogen atoms bonded together.
+4|1|An atom is made up of…|Protons, neutrons and electrons|Cells and tissues|Molecules and mixtures|Solutes and solvents|Atoms are the particles that make up all matter.
+4|1|When a substance cools down, its particles…|Lose energy, move less and get closer together|Gain energy and spread out|Stop existing|Break into smaller pieces|With less energy, the forces of attraction pull particles closer.
+4|3|In which state are the forces between particles weakest?|Gas|Solid|Liquid|They are the same in every state|Weak forces let gas particles move freely and fill their container.
+4|3|Mothballs slowly disappear in a cupboard without ever becoming liquid. What is happening?|Sublimation|Melting|Evaporation|Deposition|The solid turns straight into a gas.
+4|3|Frost forms on a freezing night straight from water vapour in the air. This is…|Deposition|Freezing|Condensation|Sublimation|The gas changes straight into a solid without becoming liquid.
+4|4|Iodine crystals are warmed and a purple gas appears with no liquid. Purple crystals then form on a cold surface above. Which changes happened?|Sublimation, then deposition|Melting, then freezing|Evaporation, then condensation|Deposition, then sublimation|Solid to gas is sublimation, and gas to solid is deposition.
+# 4.3 Physical properties of water
+4|1|Density means…|How heavy something is for its size|How big something is|How hot something is|How fast something sinks|Density is mass divided by volume.
+4|1|Ice floats on water because ice is…|Less dense than liquid water|Denser than liquid water|Heavier than water|A different substance|Water particles move further apart when they freeze.
+4|1|Which force pushes up on an object in water?|Buoyancy|Friction|Gravity|Magnetism|Buoyancy (upthrust) opposes gravity.
+4|1|At what temperature is liquid water densest?|4 °C|0 °C|100 °C|−4 °C|Water is at its most compact as a liquid at 4 °C.
+4|1|When water freezes, its particles…|Form an orderly lattice and move further apart|Lose all their energy and stop|Turn into a gas|Break into atoms|This is why ice is less dense than liquid water.
+4|2|Why does hot air rise?|It is less dense than cool air|It is heavier than cool air|Its particles are closer together|It has no particles|Hot air particles are more spread out, which keeps hot air balloons up.
+4|1|A huge metal warship floats because…|It is full of air, so overall it is less dense than water|Metal is less dense than water|Water pushes down on it|It is lighter than a coin|Air takes up lots of volume with very little mass.
+4|1|Which material would float in water?|Wood (0.5 g/cm³)|Aluminium (2.7 g/cm³)|Rock (2.5 g/cm³)|Steel (7.8 g/cm³)|Water is 1.0 g/cm³, and only wood is less dense than that.
+4|2|It is easier to float in the ocean than in a lake because…|Seawater is denser than fresh water|Seawater is warmer|Lakes have no buoyancy|Fresh water is denser|Seawater (1.03 g/cm³) gives more buoyancy than fresh water (1.0 g/cm³).
+4|1|Some insects can walk on water because of…|Surface tension|Buoyancy|Evaporation|Condensation|Water particles at the surface cling together and form a skin-like layer.
+4|2|Surface tension happens because water particles at the surface…|Are strongly attracted to each other|Push each other away|Are lighter than the rest|Evaporate quickly|Strong cohesive forces form a film on the surface.
+4|2|Water moving up a narrow tube against gravity, as in plant stems, is called…|Capillary action|Buoyancy|Sublimation|Decanting|Capillary action carries water from roots up towards leaves.
+4|2|Soaps and detergents help cleaning because they…|Reduce the surface tension of water|Increase the density of water|Make water boil|Freeze the dirt|Lower surface tension helps water get into and lift away dirt and oil.
+4|2|Liquids of different densities in a jar settle with the densest liquid…|At the bottom|At the top|In the middle|Spread evenly through|Less dense liquids float on denser ones.
+4|3|A lake's surface freezes in winter, but fish survive below. Why?|Ice floats and insulates the water underneath|The whole lake freezes but fish don't need water|Ice sinks to the bottom|Fish melt the ice with their heat|Denser 4 °C water sinks below the floating ice.
+4|3|Two blocks are the same size, but one is heavier. Which has the greater density?|The heavier one|The lighter one|They have the same density|You can't tell|Same volume plus more mass means higher density.
+4|3|An aluminium bike and an identical steel bike are the same size. Why is the steel one heavier?|Iron atoms have more mass than aluminium atoms|Steel has more air inside|Aluminium has more atoms|Steel is hollow|Heavier particles make a denser material.
+4|3|Water vapour rises in the atmosphere because it is…|Less dense than air|Denser than air|Heavier than ice|Pulled up by the Sun|Rising water vapour later condenses into clouds.
+4|4|A plastic toy duck floats, even though plastic (1.4 g/cm³) is denser than water. Why?|It is hollow and full of air, so its overall density is lower|Plastic is less dense than water|Surface tension holds it up|Water becomes denser around plastic|The air inside lowers the duck's average density below 1.0 g/cm³.
+# 4.4 Calculating density
+4|1|What is the formula for density?|ρ = m ÷ V|ρ = V ÷ m|ρ = m × V|ρ = m + V|Density (ρ) equals mass divided by volume.
+4|1|What unit is used for density in this chapter?|g/cm³|g/L|cm³/g|kg|Mass in grams ÷ volume in cubic centimetres.
+4|1|Which equipment measures mass in the lab?|Electronic balance|Measuring cylinder|Thermometer|Ruler|An electronic balance measures mass in grams.
+4|1|Which equipment measures the volume of a liquid?|Measuring cylinder|Electronic balance|Bunsen burner|Filter funnel|Measuring cylinders measure volume in mL.
+4|2|1 kg of cotton and 1 kg of rocks have the same…|Mass|Density|Volume|Particle spacing|They weigh the same, but cotton takes up more space, so it is less dense.
+4|2|A steel cube and a steel nail have different masses. How do their densities compare?|They are the same|The nail is denser|The cube is denser|They can't be compared|Density does not depend on size or shape, only on the material.
+4|1|1 cm³ is the same volume as…|1 mL|1 L|10 mL|100 mL|Cubic centimetres and millilitres are equal.
+4|1|Which of these sinks in water?|Glass|Styrofoam|Wood|Feathers|Rocks, glass and metal are denser than water, so they sink.
+4|2|To find the volume of an irregular object such as a key, you can…|Measure how much it raises the water level in a measuring cylinder|Weigh it twice|Measure only its length|Heat it|The rise in water level equals the object's volume.
+4|3|A cube has a mass of 24 g and a volume of 8 cm³. What is its density?|3 g/cm³|192 g/cm³|0.33 g/cm³|32 g/cm³|ρ = 24 ÷ 8 = 3 g/cm³.
+4|3|Object A is 2 g/cm³ and object B is 0.8 g/cm³. What happens in water?|A sinks and B floats|Both float|A floats and B sinks|Both sink|Anything denser than 1.0 g/cm³ sinks.
+4|3|A mass is given as 2 kg. What is that in grams?|2000 g|200 g|20 g|0.002 g|Multiply kilograms by 1000 to get grams.
+4|4|A block with a density of 0.6 g/cm³ has a volume of 50 cm³. What is its mass?|30 g|83 g|0.012 g|300 g|m = ρ × V = 0.6 × 50 = 30 g.
+4|4|A 120 g lump of metal has a density of 8 g/cm³. What is its volume?|15 cm³|960 cm³|0.07 cm³|128 cm³|V = m ÷ ρ = 120 ÷ 8 = 15 cm³.
+# 4.5 Solute, solvent, solution
+4|1|A substance that can dissolve is described as…|Soluble|Insoluble|Saturated|Dilute|Soluble means able to dissolve.
+4|1|In a glass of cordial drink, the water is the…|Solvent|Solute|Residue|Sediment|The solvent is the substance that the solute dissolves in.
+4|1|What is the formula for concentration?|C = m ÷ V|C = V ÷ m|C = m × V|C = m − V|Concentration equals mass of solute divided by volume.
+4|2|Fizzy drinks are fizzy because which gas is dissolved in them?|Carbon dioxide|Oxygen|Nitrogen|Helium|A gas can be a solute too.
+4|1|Solutes can start out as…|Solids, liquids or gases|Only solids|Only liquids|Only gases|Sugar (solid), cordial (liquid) and carbon dioxide (gas) can all be solutes.
+4|1|A solution is always…|Transparent (see-through)|Cloudy|Colourless|Thick and sticky|Solutions can be coloured or colourless, but you can always see through them.
+4|1|Copper sulfate dissolves in water to make a…|Clear blue solution|Cloudy white suspension|Black solid|Colourless gas|You can see through it, so it is a solution.
+4|2|Grease does not dissolve in water, but it does dissolve in…|Alcohol-based solvents|Salt water|Ice|Sand|Some solutes dissolve in some solvents and not in others.
+4|1|Concentration is usually measured in…|g/L|g/cm³|°C|cm|Grams of solute per litre.
+4|2|A soft drink contains sugar, cordial and carbon dioxide dissolved in water. Which is the solvent?|Water|Sugar|Cordial|Carbon dioxide|The other three are all solutes dissolved in water.
+4|3|30 g of sugar is dissolved to make 2 L of solution. What is its concentration?|15 g/L|60 g/L|0.067 g/L|32 g/L|C = m ÷ V = 30 ÷ 2 = 15 g/L.
+4|3|What does %v/v measure?|Volume of solute as a percentage of volume of solution|Mass of solute per litre|Density of a solution|Temperature of a solution|%v/v = (volume of solute ÷ volume of solution) × 100.
+4|4|20 mL of cordial is in a 400 mL drink. What is the %v/v of cordial?|5%|20%|0.05%|8%|(20 ÷ 400) × 100 = 5%.
+4|4|You want 500 mL of drink that is 10% v/v juice. How much juice do you need?|50 mL|10 mL|5 mL|450 mL|10% of 500 mL is 50 mL.
+# 4.6 Water as a solvent
+4|1|Water is called the universal solvent because…|It dissolves more substances than any other liquid|It is found everywhere in space|It cannot dissolve anything|It is the only liquid|Water dissolves many solids, liquids and gases.
+4|1|A solution with water as its solvent is called…|Aqueous|Saturated|Insoluble|Immiscible|"Aqua" means water.
+4|2|Blood is mostly water. What does it carry around the body?|Dissolved nutrients and oxygen|Only sand|Undissolved salt crystals|Oil droplets only|Water is an essential solvent for humans.
+4|2|Some Australian uranium mines pump acidic water underground to…|Dissolve the uranium out of the rock|Cool the rocks down|Freeze the uranium|Filter out the uranium|The solution is pumped back up and processed to get the uranium.
+4|1|Fish depend on which gas dissolved in water?|Oxygen|Helium|Methane|Argon|Rivers, lakes and oceans contain dissolved oxygen.
+4|2|Marine plants need dissolved carbon dioxide to…|Photosynthesise|Make spores|Grow shells|Float|Photosynthesis turns carbon dioxide and water into glucose and oxygen.
+4|2|How do plants get minerals such as iron and calcium?|Water dissolves them from rocks and soil|They make them in chloroplasts|They breathe them in|They catch insects|Plants absorb the dissolved minerals from groundwater.
+4|2|As water gets warmer, the solubility of most solid solutes…|Increases|Decreases|Stays the same|Drops to zero|Warmer water can dissolve more solute.
+4|1|When we sweat, we lose water and…|Dissolved minerals|Blood cells|Oxygen gas|Sand|Minerals dissolved in our sweat leave the body too.
+4|3|Why does warm water dissolve more sugar than cold water?|Its particles have more energy and move more|It has fewer particles|It is wetter|The sugar melts|Faster-moving water particles are better at breaking up the solute.
+# 4.7 Properties of solutions
+4|1|A solution with a lot of solute in a certain volume is…|Concentrated|Dilute|Insoluble|Pure|Concentrated solutions have solute particles close together.
+4|2|Potassium permanganate solution is darker purple when it is…|More concentrated|More dilute|Colder|Filtered|More solute particles give a darker colour.
+4|2|In a dilute solution, the solute particles are…|Widely spaced out|Packed tightly together|Missing completely|Settled at the bottom|Dilute means only a small amount of solute.
+4|1|Which is an everyday supersaturated solution?|Honey|Tap water|Seawater|Black coffee|Honey holds more sugar than water can normally dissolve at room temperature.
+4|2|You keep stirring sugar into water, but no more will dissolve. The solution is…|Saturated|Dilute|Insoluble|Aqueous|A saturated solution has reached its saturation point.
+4|3|How is a supersaturated solution made?|Heat a saturated solution, dissolve more solute, then cool it slowly|Add cold water to a solution|Filter a saturated solution|Freeze a dilute solution|Slow cooling lets the extra solute stay dissolved.
+4|3|How do bees make honey supersaturated?|Fanning it with their wings evaporates water|Adding salt to it|Freezing it|Shaking it|Less water means more sugar than water could normally hold.
+4|3|Why does old honey sometimes form sugar crystals?|It holds more sugar than can normally stay dissolved|It has gone mouldy|Bees added sand|It got too hot|Over time, the extra sugar crystallises out of the supersaturated solution.
+4|3|How could you make a strong cordial drink more dilute?|Add more water|Add more cordial|Heat it|Stir it faster|More solvent spreads the solute particles further apart.
+4|3|Why must pools have the right amount of dissolved chlorine?|Too little won't kill germs, and too much can harm swimmers|Chlorine makes people float|Chlorine colours the water blue|Chlorine makes the water denser|Concentration matters: chlorine reduces harmful germs.
+4|4|Solution A has 20 g in 1 L. Solution B has 15 g in 0.5 L. Which is more concentrated?|B, at 30 g/L|A, at 20 g/L|They are equal|A, because it has more solute|B: 15 ÷ 0.5 = 30 g/L, which beats A's 20 g/L.
+# 4.8 Atoms, elements, compounds and mixtures
+4|1|An element is made of…|Only one type of atom|Two or more types of atom bonded|Two substances mixed|Cells|Gold contains only gold atoms.
+4|1|Which of these is an element?|Gold|Water|Salt|Air|Gold is one of the few elements found in its pure form in nature.
+4|1|Which of these is a compound?|Water|Gold|Air|Seawater|Water is hydrogen and oxygen atoms chemically bonded together.
+4|1|Which of these is a mixture?|Air|Gold|Pure water|Oxygen|Air is several gases mixed together but not bonded.
+4|1|A water molecule (H₂O) is made of…|One oxygen atom bonded to two hydrogen atoms|Two oxygen atoms and one hydrogen atom|Oxygen gas mixed with hydrogen gas|Only hydrogen atoms|The 2 in H₂O means two hydrogen atoms.
+4|2|In sodium chloride (table salt), sodium and chlorine atoms are in a ratio of…|1:1|1:2|2:1|3:1|NaCl has one sodium for every chlorine, arranged in a lattice.
+4|1|Which is true of a mixture?|Its parts are not bonded and can be physically separated|Its atoms are bonded in a fixed ratio|It contains only one type of atom|It can never be separated|That is what makes mixtures different from compounds.
+4|1|Pure substances include…|Elements and compounds|Only mixtures|Suspensions and colloids|Solutions|A pure substance contains only one type of particle.
+4|2|When seawater is boiled dry, what is left behind?|Salt|Hydrogen|Oxygen|Nothing|The water escapes as a gas and the salt stays behind.
+4|1|Salt water is a homogeneous mixture because…|It has the same composition throughout|It forms layers|It contains sand|It is a compound|Dissolved solutes spread out evenly.
+4|1|Sand, water and pebbles in a beaker form a…|Heterogeneous mixture|Homogeneous mixture|Compound|Element|The sand and pebbles settle into layers, so it is uneven.
+4|2|The water and plastic 'snow' in a snow globe form a…|Suspension|Solution|Colloid|Compound|The large particles spread out when shaken, then settle.
+4|1|The textbook describes milk as a…|Colloid|Solution|Element|Compound|Milk is tiny droplets of fat spread evenly through water.
+4|1|In a suspension, the particles eventually…|Settle to the bottom|Dissolve completely|Disappear|Turn into gas|Suspension particles are large and insoluble.
+4|1|In a colloid, the particles…|Spread evenly and never settle|Settle quickly|Dissolve completely|Float to the top|Colloid particles are tiny and insoluble.
+4|3|Shining a light beam through a mixture to see if it scatters is called…|The Tyndall effect|Capillary action|Chromatography|Buoyancy|Colloids and suspensions scatter light. Solutions don't.
+4|3|A laser beam can't be seen as it passes through a clear mixture. The mixture is most likely a…|Solution|Colloid|Suspension|Heterogeneous mixture|Solutions do not scatter light.
+4|3|Cough syrup is a suspension of…|A liquid in a liquid|A solid in a gas|A gas in a solid|A gas in a liquid|The textbook gives cough syrup as a liquid in a liquid.
+4|3|Sand blown along a beach by the wind is a suspension of…|A solid in a gas|A liquid in a liquid|A gas in a liquid|A liquid in a gas|The sand drops when the wind stops.
+4|3|Compounds can be broken down into simpler substances by…|Chemical reactions|Filtering|Sieving|Decanting|Physical methods can't split the bonds in a compound.
+4|4|Oxygen gas (O₂) has two atoms bonded together. Is it an element or a compound?|An element, because both atoms are oxygen|A compound, because it has two atoms|A mixture, because it is a gas|A compound, because the atoms are bonded|A compound needs two or more different elements.
+# 4.9 Centrifugation and paper chromatography
+4|1|Centrifugation separates substances by their…|Density|Colour|Smell|Taste|Spinning makes denser parts move to the bottom.
+4|1|In a centrifuge, the densest parts move…|To the bottom of the tube|To the top|Out of the tube|Into a gas|Fast spinning pushes denser components outwards to the bottom.
+4|2|Spinning blood in a centrifuge separates it into…|Plasma, white cells and platelets, and red cells|Oxygen and carbon dioxide|Salt and water|DNA and cells|Blood components have different densities.
+4|2|After blood is centrifuged, which part ends up at the bottom?|Red blood cells|Plasma|White blood cells|Platelets|Red blood cells are the densest part of blood.
+4|2|Paper chromatography separates substances by their…|Solubility|Density|Magnetism|Particle size|More soluble substances travel further with the solvent.
+4|1|In paper chromatography, the most soluble dye…|Travels the furthest up the paper|Stays on the starting line|Sinks to the bottom|Evaporates|The solvent carries the most soluble substances the furthest.
+4|2|In chromatography, black ink often separates into…|Several coloured dyes|Pure black|Water and salt|Sand|Many inks are mixtures of different dyes.
+4|1|Mixtures can be separated by…|Physical means|Chemical reactions only|Freezing only|Nothing: they can't be separated|The method chosen depends on the properties of each part.
+4|3|Forensic scientists can use chromatography to…|Match ink on a note to a particular pen|Measure a person's height|Find a rock's density|Grow crystals|Matching dye patterns links ink samples.
+4|3|In a chromatogram, the green dye moved the least distance. This means green is…|The least soluble|The most soluble|The densest|Magnetic|Less soluble substances don't travel as far.
+4|3|Why must the ink line in chromatography start above the level of the solvent?|So the ink doesn't wash off into the solvent|So it dries faster|So the paper is heavier|So it changes colour|The solvent needs to soak up the paper and carry the ink upwards.
+# 4.10 Filtration and decantation
+4|1|Filtration separates substances by their…|Particle size|Boiling point|Solubility|Colour|Small holes let the liquid through but trap larger particles.
+4|1|In filtration, the solid trapped in the filter paper is the…|Residue|Filtrate|Solute|Solvent|The residue stays behind in the filter.
+4|1|The liquid that passes through filter paper is the…|Filtrate|Residue|Sediment|Solute|The filtrate is collected in the flask.
+4|2|Which method separates tea leaves from a cup of tea?|Filtration with a strainer|Distillation|Chromatography|Centrifugation|Water passes through the strainer but the leaves don't.
+4|2|Carefully pouring off a liquid and leaving the sediment behind is called…|Decanting|Filtering|Distilling|Winnowing|Decanting works once the solid has settled.
+4|1|How does a glass rod help when decanting?|It reduces spills and splashing|It heats the liquid|It filters the liquid|It stirs up the sediment|The liquid runs down the rod into the new container.
+4|1|Oil and water won't mix. They are…|Immiscible|Soluble|Saturated|Aqueous|Immiscible liquids form separate layers.
+4|1|Which equipment can separate oil from water?|A separating funnel|An evaporating basin|A sieve|A magnet|The bottom layer drains out when the tap is opened.
+4|2|Oil and water form separate layers because they have different…|Densities|Colours|Temperatures|Shapes|The less dense oil floats on top.
+4|2|In cheese making, the leftover liquid is skimmed off the top. This is an example of…|Decanting|Distillation|Chromatography|Sublimation|Removing the top liquid and leaving the solid is decanting.
+4|3|Can filtration separate salt from salt water?|No, the dissolved salt passes through the filter|Yes, the salt stays on the paper|Yes, if you filter it twice|No, salt water blocks the filter|Dissolved particles are far smaller than the holes in filter paper.
+4|3|You are lost in the bush with muddy water. Which order works best?|Let the mud settle, decant, then pour through a cloth|Filter first, then boil it dry|Evaporate it all, then add salt|Freeze it, then sieve it|Decanting removes most of the mud, and the cloth acts as a filter.
+# 4.11 Evaporation, crystallisation and distillation
+4|1|Desalination is a process that removes salt from…|Seawater|Oil|Air|Sand|Australia uses desalination to make drinking water during droughts.
+4|2|Evaporation can be sped up by heating a solution in an…|Evaporating basin|Separating funnel|Measuring cylinder|Filter funnel|An open basin lets the water vapour escape.
+4|2|Large crystals form when a solution evaporates…|Slowly|Quickly|Not at all|In a freezer|Fast evaporation gives small crystals, and slow evaporation gives large ones.
+4|1|In distillation, the condenser…|Cools the gas back into a liquid|Heats the solution|Filters out the salt|Weighs the liquid|Cold water around the tube makes the vapour condense.
+4|2|The liquid collected at the end of distillation is called the…|Distillate|Residue|Sediment|Filtrate|The distillate is the condensed liquid.
+4|2|Distillation can separate two liquids because they have different…|Boiling points|Colours|Particle sizes|Magnetic properties|The liquid with the lower boiling point boils off first.
+4|1|Salt evaporation ponds make salt by…|Letting the Sun evaporate seawater|Filtering seawater|Freezing seawater|Spinning seawater|The water evaporates and salt crystals are left behind.
+4|2|When salt water is distilled, what stays in the flask?|Salt|Pure water|Water vapour|Nothing|The water boils off, condenses and is collected elsewhere.
+4|2|Which of these is collected using distillation?|Perfume scents|Sand|Tea leaves|Iron filings|Many perfume scents and refined oil products are made by distillation.
+4|3|Water and alcohol are distilled. Alcohol boils at 78 °C and water at 100 °C. Which boils off first?|Alcohol|Water|Both at once|Neither|The substance with the lower boiling point evaporates first.
+4|3|Why does a condenser have cold water flowing around it?|To cool the vapour so it condenses|To heat the flask|To dissolve the salt|To make the solution denser|Cooling removes energy, so the gas turns back into a liquid.
+4|4|You want to get back BOTH pure water and salt from salt water. Which method is best?|Distillation|Evaporation in an open basin|Filtration|Decanting|Evaporating in an open basin loses the water to the air, but distillation collects it.
+# 4.12 First Nations Peoples' separation techniques
+4|1|A coolamon is…|A shallow wooden dish for carrying things and winnowing seeds|A metal sieve|A machine that spins mixtures|A type of filter paper|Coolamons are traditional wooden objects.
+4|1|Winnowing separates seeds from husks by…|Throwing them up so the wind blows the husks away|Soaking them in water|Spinning them fast|Heating them|The heavier seeds fall back into the coolamon.
+4|2|When grass seeds are winnowed, the heavier seeds…|Fall back into the coolamon|Blow away|Dissolve|Float on water|The light husks are carried off by the wind.
+4|1|Leaching makes cycad seeds safe to eat by…|Washing out soluble toxins in running water|Cooking them in oil|Blowing air through them|Sieving them|The toxins dissolve in slow-moving water and are washed away.
+4|2|Walking across a creek holding leafy branches to catch fish and yabbies is an example of…|Sieving|Winnowing|Leaching|Yandying|The water passes through and the animals are caught.
+4|2|Choosing the smaller, lighter green gum leaves to brew a medicine tea uses…|Hand picking|Winnowing|Distillation|Leaching|Hand picking is a simple way to separate objects.
+4|2|First Nations Peoples have used eucalyptus leaves for thousands of years to…|Ease coughs and colds|Make glass|Make metal tools|Dye cloth blue|Some species are also antibacterial and repel mosquitoes.
+4|3|Yandying separates particles that have different…|Masses and densities|Colours|Smells|Boiling points|Shaking a tilted coolamon makes smaller, denser particles collect at the bottom.
+4|3|In the Pilbara, a modified coolamon has been used to yandy…|Tin from soil|Salt from water|Oil from water|Ink dyes|Yandying works because tin is much denser than soil.
+4|3|Which property does leaching use?|Solubility, because the toxins dissolve|Magnetism|Particle size|Boiling point|Only the soluble toxins are removed by the water.
+4|3|Winnowing grass seeds was a key step in making…|Flour and bread|Canoes|Medicine tea|Fishing nets|The clean seeds were ground into flour.
+# 4.13 Industrial separation techniques
+4|1|In water purification, which step removes twigs and leaves first?|Screening|Aeration|Chemical treatment|Flocculation|Water passes through mesh screens.
+4|1|Sewage is…|Semi-liquid human waste|Clean drinking water|The pipes that carry waste|Rainwater|Sewage travels through the sewerage system to be treated.
+4|2|Alum is added to make small particles clump together in which step?|Flocculation|Screening|Aeration|Filtration|The clumps are called floc.
+4|1|In sedimentation, the heavy floc…|Settles to the bottom as sludge|Floats to the top|Dissolves|Evaporates|The sludge is collected from the bottom of the tank.
+4|2|Which chemical is added to drinking water to help prevent tooth decay?|Fluoride|Chlorine|Alum|Salt|Fluoride is added in the chemical treatment step.
+4|1|Chlorine is added to drinking water to…|Kill harmful organisms such as bacteria|Make it taste sweet|Make floc|Add oxygen|Chlorine disinfects the water.
+4|1|Aeration of drinking water adds oxygen to…|Improve its smell and colour|Kill all the bacteria|Remove twigs|Add fluoride|Aeration is the final purification step.
+4|2|In the filtration step, water flows through beds of…|Pebbles, sand and crushed coal|Paper and plastic|Salt crystals|Cotton wool|The packed beds trap any remaining floc.
+4|2|The system of pipes that carries sewage is called…|Sewerage|Sewage|Sludge|Floc|Sewage is the waste. Sewerage is the pipe system.
+4|2|In sewage treatment, air is pumped into tanks to…|Feed bacteria that break down the sewage|Freeze the sewage|Add fluoride|Make it smell nicer|The bacteria do the work of breaking down the waste.
+4|1|What is the last step of sewage treatment?|Disinfection with UV light or chlorine|Screening|Sewerage|Aeration|Disinfection kills the remaining harmful bacteria.
+4|3|Sludge removed during sewage treatment is used to make…|Soil and fertiliser products|Drinking water|Perfume|Car fuel|The settled sludge still contains useful nutrients.
+4|3|Which steps appear in BOTH water purification and sewage treatment?|Screening, filtration and aeration|Flocculation, sedimentation and fluoride|Sewerage, screening and disinfection|Chemical treatment and sewerage|Both processes screen, filter and add air, but in different orders.
+4|4|Why is screening done before filtration when water is treated?|Large objects would clog the filter beds|Filtration puts the twigs in|Screening kills bacteria|The order doesn't matter|Removing big objects first keeps the fine filters working.
+# 4.14 Solutions and mixtures in context
+4|1|An oil slick is…|A thin layer of oil on the surface of water|Oil mixed evenly through water|A type of fish|An oil tanker|Spilled oil spreads out across the surface.
+4|1|Crude oil is…|Oil that has not been separated into usable products|Cooking oil|Oil pressed from olives|Refined petrol|Crude oil is separated (refined) to make fuels and plastics.
+4|1|Oil slicks float on water because oil is…|Less dense than water and doesn't mix with it|Denser than water|Soluble in water|A gas|Oil and water are immiscible, and oil is less dense.
+4|1|Floating booms are used to…|Contain an oil slick so it can be skimmed off|Sink the oil|Dissolve the oil|Burn the oil underwater|Booms stop the slick from spreading.
+4|2|Sorbent booms work like a disposable nappy because they…|Absorb oil|Absorb only water|Repel oil|Make oil heavier|They soak up oil and are then removed.
+4|2|Why is an oil slick harmful to ocean life?|It stops oxygen and carbon dioxide dissolving into the water|It makes the water too cold|It makes the water denser|It adds too much oxygen|Low dissolved gas levels can kill marine plants and animals.
+4|1|Birds caught in an oil spill can…|Lose their ability to fly, swim and float|Fly higher|Become more waterproof|Digest the oil safely|They can also be poisoned when they try to clean themselves.
+4|1|Which of these can cause an oil spill?|A damaged oil tanker|Rain falling on the ocean|Fish swimming|Coral growing|Spills come from tankers, ships and drilling accidents.
+4|3|Devices that scoop or suck oil off the water's surface are called…|Skimmers|Condensers|Centrifuges|Coolamons|Skimmers collect oil inside the booms.
+4|3|One way to clean an oily shoreline is to…|Wash the oil back into the water to be skimmed|Pour more oil on it|Freeze the beach|Leave it forever|Oil floats, so it can be skimmed once it is back on the water.
+4|4|Which pair of clean-up methods relies on oil being less dense than water?|Booms and skimmers|Sieving and winnowing|Chromatography and distillation|Hand picking and leaching|Floating oil can be trapped and skimmed off the surface.
+# Choosing a separation method
+4|3|Which method would best separate iron filings from sand?|A magnet|Filtration|Distillation|Chromatography|Iron is magnetic and sand is not.
+4|3|Which method would best separate chalk powder from water?|Filtration|Distillation|Chromatography|A magnet|Chalk is insoluble, so the filter paper traps it.
+4|3|Which method would best separate the dyes in a lolly coating?|Paper chromatography|Filtration|A magnet|Winnowing|Dyes are separated by how soluble they are.
+4|4|You want to get back the sand and the salt from a mixture of sand, salt and water. Which order works?|Filter out the sand, then evaporate the water to get the salt|Evaporate first, then use a magnet|Use a magnet, then decant|Centrifuge, then use chromatography|Filtration removes the insoluble sand, and evaporation leaves the dissolved salt.
+# VOCABULARY: V | chapter | difficulty | definition | answer (alternatives separated by ;) | explanation
+V|3|2|A colourless and odourless gas containing carbon and oxygen that is produced during respiration|carbon dioxide|Key term from 3.1: carbon dioxide (CO₂) is breathed out as a waste product.
+V|3|1|An organism that displays specific characteristics of being alive|living thing|Key term from 3.1: a living thing shows all seven characteristics.
+V|3|1|An individual animal, plant or other living thing|organism|Key term from 3.1: organism.
+V|3|1|Changes in the environment that cause responses in living things|stimuli;stimulus|Key term from 3.1: stimuli (one is a stimulus).
+V|3|2|A chemical reaction that converts glucose to energy|respiration|Key term from 3.1 and 3.11: respiration happens in the mitochondria.
+V|3|1|The process of sorting things into groups or classes|classification|Key term from 3.2: classification.
+V|3|1|A single, specific type of living thing|species|Key term from 3.2: species is the most specific Linnaean level.
+V|3|1|The science of classifying organisms|taxonomy|Key term from 3.2: taxonomy. A person who does it is a taxonomist.
+V|3|2|A biologist who specialises in classifying living things|taxonomist|From 3.2: taxonomists work in taxonomy.
+V|3|1|An animal that eats only plants|herbivore|From 3.2: herbivores eat plants, carnivores eat meat.
+V|3|1|An animal that eats only meat|carnivore|From 3.2: carnivores eat meat.
+V|3|2|Working cooperatively with other people to complete a task or solve a problem|collaboration|Key term from 3.3: a shared classification system makes collaboration easier.
+V|3|3|Someone who studies nature and its history|naturalist|Key term from 3.3: Carolus Linnaeus was a Swedish naturalist.
+V|3|2|The Swedish naturalist who proposed the classification system scientists use today|Linnaeus;Carolus Linnaeus|From 3.3: the Linnaean system is named after him.
+V|3|1|The Linnaean level that comes after kingdom|phylum|From 3.3: domain, kingdom, phylum, class, order, family, genus, species.
+V|3|2|The Linnaean level that is the first word of a scientific name|genus|From 3.3: the genus is written with a capital letter.
+V|3|2|The broadest (top) level of the Linnaean system|domain|From 3.3: domains are separated by cell structure.
+V|3|2|The kingdom that contains mushrooms and moulds|Fungi;fungus|From 3.3: fungi are one of the five kingdoms.
+V|3|2|A tool to help classify an organism by identifying important characteristics such as its features and behaviours|classification key;key|Key term from 3.4: classification key.
+V|3|1|Divided into two parts|dichotomous|Key term from 3.4: a dichotomous key gives two choices at each step.
+V|3|2|A skeleton on the outside of the body that is not made of bone|exoskeleton|From 3.4 and 3.5: arthropods have an exoskeleton.
+V|3|2|The largest group of animals on Earth; the name means 'jointed feet'|arthropod;arthropoda|From 3.4: arthropods include insects, arachnids and crustaceans.
+V|3|3|The arthropod class with 8 legs, 2 body parts, no wings and no antennae|arachnid|From 3.4: spiders, ticks and scorpions are arachnids.
+V|3|3|The arthropod class with 10 legs and 2 pairs of antennae, such as crabs and prawns|crustacean|From 3.4: crustaceans.
+V|3|1|An organism without a backbone or spinal cord|invertebrate|Key term from 3.5: invertebrate.
+V|3|1|An organism with a backbone or spinal cord|vertebrate|Key term from 3.5: vertebrate.
+V|3|2|The oddly shaped bones that make up a backbone|vertebrae;vertebra|From 3.5: vertebrae.
+V|3|3|The phylum that all vertebrates belong to|Chordata;chordate|From 3.5: all Chordata have a cord along their back.
+V|3|2|A plant that produces seeds in fruit or flowers|angiosperm|Key term from 3.6: angiosperm.
+V|3|1|A plant that does not contain vascular tissue|bryophyte|Key term from 3.6: mosses and liverworts are bryophytes.
+V|3|1|A plant that produces seeds in cones|gymnosperm|Key term from 3.6: gymnosperm.
+V|3|2|A tiny part of some plants that is used to reproduce|spore|Key term from 3.6: ferns and mosses use spores.
+V|3|3|The construction and arrangement of tissues, parts or organs|structure|Key term from 3.6: structure.
+V|3|2|A group of cells with a similar structure and function|tissue|Key term from 3.6: tissue.
+V|3|3|A plant that contains vascular tissue|tracheophyte|Key term from 3.6: tracheophyte.
+V|3|3|Tissue that transports fluid and nutrients throughout a plant|vascular tissue|Key term from 3.6: vascular tissue.
+V|3|1|A feature that an organism is born with that helps it to survive in its environment|adaptation|Key term from 3.7: adaptation.
+V|3|2|A community of living and non-living things interacting with one another and with the environment in which they live|ecosystem|Key term from 3.7: ecosystem.
+V|3|1|The place where an animal or a plant naturally lives|habitat|Key term from 3.7: habitat.
+V|3|3|The type of adaptation that is a process or function in the body, such as a kangaroo pausing its pregnancy|physiological|From 3.7: physiological adaptations.
+V|3|2|The type of adaptation that is something an animal does|behavioural|From 3.7: behavioural adaptations.
+V|3|2|The type of adaptation that is a physical feature, such as a platypus's waterproof fur|structural|From 3.7: structural adaptations.
+V|3|1|The people we are descended from|Ancestors;ancestor|Key term from 3.8: Ancestors.
+V|3|4|The supernatural beings that many First Nations Peoples believe exist, often connected with Dreaming stories|spirits|Key term from 3.8: spirits.
+V|3|1|The smallest functional unit of an organism|cell|Key term from 3.9: cell.
+V|3|2|A suggested explanation or prediction of a scientific problem that can be tested with an investigation|hypothesis|Key term from 3.9: hypothesis.
+V|3|3|An explanation of a natural phenomenon that is supported by evidence and the results of repeated tests|scientific theory;theory|Key term from 3.9: cell theory is a scientific theory.
+V|3|1|A tool for looking at small things|microscope|From 3.9: micro means small and scope means to see.
+V|3|2|A thin layer around a cell that controls which substances enter and leave the cell|cell membrane;membrane|Key term from 3.10: cell membrane.
+V|3|2|A stiff layer around a plant cell that supports it|cell wall|Key term from 3.10: cell wall.
+V|3|2|A small organelle in a plant cell that makes food for the plant|chloroplast|Key term from 3.10: chloroplast.
+V|3|1|A jelly-like fluid inside a cell|cytoplasm|Key term from 3.10: cytoplasm.
+V|3|1|The genetic information inside a body's cells (3 letters)|DNA|Key term from 3.10: DNA.
+V|3|1|The control centre of a cell; contains DNA|nucleus|Key term from 3.10: nucleus.
+V|3|1|A structure within a cell|organelle|Key term from 3.10: organelle.
+V|3|3|The simple type of cell that bacteria have, with no nucleus|prokaryotic;prokaryote|From 3.10: prokaryotic cells.
+V|3|3|The complex type of cell, with a nucleus, found in animals, plants and fungi|eukaryotic;eukaryote|From 3.10: eukaryotic cells.
+V|3|3|The process of turning glucose into energy where the cells take in oxygen and release carbon dioxide|aerobic respiration|Key term from 3.11: aerobic respiration.
+V|3|3|How living things produce energy without oxygen|anaerobic respiration|Key term from 3.11: anaerobic respiration.
+V|3|2|The green pigment in plant cells that absorbs sunlight and enables photosynthesis|chlorophyll|Key term from 3.11: chlorophyll.
+V|3|2|A type of sugar that is the energy source for cells|glucose|Key term from 3.11: glucose.
+V|3|1|The organelles where respiration happens|mitochondria;mitochondrion|Key term from 3.11: mitochondria.
+V|3|2|The chemical reaction, powered by sunlight, in plants that converts carbon dioxide and water into sugar and oxygen|photosynthesis|Key term from 3.11: photosynthesis.
+V|3|3|Pores on the surface of a leaf; the site of gas exchange in plants|stomata;stoma|Key term from 3.11: stomata.
+V|3|3|To change to have a particular function|differentiate|Key term from 3.12: differentiate.
+V|3|2|Consisting of many specialised cells that form tissues and organs, which together make one functional organism|multicellular|Key term from 3.12: multicellular.
+V|3|2|A structure made up of two or more tissues that has a specific function|organ|Key term from 3.12: organ.
+V|3|2|Consisting of one cell that carries out all the functions itself|unicellular|Key term from 3.12: unicellular.
+V|3|3|The plant cell that transports water from the roots to the stem and leaves|xylem|From 3.12: xylem cells.
+V|3|3|The plant cell that transports sugar around the plant|phloem|From 3.12: phloem cells.
+V|3|1|Active during the night|nocturnal|Key term from 3.13: quokkas are nocturnal.
+V|3|2|The common name of the animal Setonix brachyurus|quokka|From 3.13: the quokka.
+V|4|1|Squash something into a smaller shape|compress|Key term from 4.1: gases can be compressed.
+V|4|1|Change state from gas to liquid|condense|Key term from 4.1 and 4.2: condense.
+V|4|1|Any substance that has mass and takes up space|matter|Key term from 4.1: matter.
+V|4|1|A very small amount of matter|particle|Key term from 4.1: particle.
+V|4|1|The amount of space an object takes up|volume|Key term from 4.1: volume.
+V|4|2|A particle that makes up all matter; made up of protons, neutrons and electrons|atom|Key term from 4.2: atom.
+V|4|3|Changing state from gas to solid|deposition|Key term from 4.2: deposition.
+V|4|1|Change state from liquid to gas|evaporate|Key term from 4.2: evaporate.
+V|4|1|Change state from liquid to solid|freeze|Key term from 4.2: freeze.
+V|4|1|Change state from solid to liquid|melt|Key term from 4.2: melt.
+V|4|2|A unit made up of two or more atoms chemically bonded to each other|molecule|Key term from 4.2: molecule.
+V|4|2|A model used to describe the properties of solids, liquids and gases|particle theory|Key term from 4.2: particle theory.
+V|4|1|Changing state from solid to gas|sublimation|Key term from 4.2: sublimation.
+V|4|2|Solid carbon dioxide, which sublimes at room temperature (two words)|dry ice|From 4.2: dry ice.
+V|4|2|The upward force that opposes the downward force of gravity on an object in a liquid or gas|buoyancy|Key term from 4.3: buoyancy.
+V|4|1|How heavy something is for its size; mass divided by volume|density|Key term from 4.3: density.
+V|4|1|The amount of matter that a physical body contains|mass|Key term from 3.1 and 4.3: mass.
+V|4|3|Where the molecules at the surface of a liquid are more attracted to each other than to the air above the liquid|surface tension|Key term from 4.3: surface tension.
+V|4|3|Water moving against gravity through narrow spaces, such as up a straw or plant vessel|capillary action|From 4.3: capillary action.
+V|4|2|The amount of a dissolved solute in a defined amount of solvent|concentration|Key term from 4.5: concentration.
+V|4|1|Particles separating and spreading out, so that they seem to disappear, when added to another substance|dissolve|Key term from 4.5: dissolve.
+V|4|1|Does not dissolve|insoluble|Key term from 4.5: insoluble.
+V|4|1|Two or more substances combined that can be physically separated|mixture|Key term from 4.5: mixture.
+V|4|1|Able to dissolve|soluble|Key term from 4.5: soluble.
+V|4|1|A substance that is dissolved by a solvent|solute|Key term from 4.5: solute.
+V|4|1|A mixture made up of a solvent and a solute|solution|Key term from 4.5: solution.
+V|4|1|A substance that a solute dissolves in|solvent|Key term from 4.5: solvent.
+V|4|1|Containing water|aqueous|Key term from 4.6: aqueous.
+V|4|2|The amount of solute that will dissolve in a solvent|solubility|Key term from 4.6: solubility.
+V|4|2|A solvent that dissolves most substances (water's nickname)|universal solvent|Key term from 4.6: universal solvent.
+V|4|2|When a solution has a large amount of solute in a certain volume|concentrated|Key term from 4.7: concentrated.
+V|4|2|When a solution has a small amount of solute in a certain volume|dilute|Key term from 4.7: dilute.
+V|4|2|A solution that cannot dissolve any more solute|saturated|Key term from 4.7: saturated.
+V|4|3|The point at which a solution has dissolved the maximum amount of solute|saturation point|Key term from 4.7: saturation point.
+V|4|3|When a solution contains more than the maximum amount of solute it can normally dissolve|supersaturated|Key term from 4.7: supersaturated (honey is an example).
+V|4|3|A force that holds atoms together|chemical bond;bond|Key term from 4.8: chemical bond.
+V|4|1|A mixture made of tiny insoluble particles|colloid|Key term from 4.8: colloid.
+V|4|2|A substance containing atoms of two or more elements, chemically bonded together in a fixed ratio|compound|Key term from 4.8: compound.
+V|4|1|A substance made of only one type of atom|element|Key term from 4.8: element.
+V|4|3|A mixture with an uneven (non-uniform) composition|heterogeneous|Key term from 4.8: heterogeneous.
+V|4|3|A mixture with an even (uniform) composition|homogeneous|Key term from 4.8: homogeneous.
+V|4|3|A three-dimensional shape made of a repeating pattern of atoms|lattice|Key term from 4.8: lattice.
+V|4|1|A mixture made of large insoluble particles|suspension|Key term from 4.8: suspension.
+V|4|2|A substance made of only one type of particle, such as an element or a compound|pure substance|From 4.8: pure substance.
+V|4|3|The scattering of a light beam by the particles in a colloid or suspension (two words)|Tyndall effect|From 4.8: Tyndall effect.
+V|4|2|A technique for separating the components of a mixture on the basis of their different densities|centrifugation|Key term from 4.9: centrifugation.
+V|4|3|A technique that separates the components of a mixture based on their solubilities|paper chromatography;chromatography|Key term from 4.9: paper chromatography.
+V|4|2|To carefully pour off the liquid from a mixture, leaving the sediment behind|decant;decanting;decantation|Key term from 4.10: decant.
+V|4|2|The liquid that passes through a filter on filtration|filtrate|Key term from 4.10: filtrate.
+V|4|1|The process of separating a mixture of solid particles from a liquid by using a filter|filtration|Key term from 4.10: filtration.
+V|4|3|Cannot be mixed|immiscible|Key term from 4.10: immiscible.
+V|4|2|The solid that does not pass through a filter on filtration|residue|Key term from 4.10: residue.
+V|4|2|The solid that settles to the bottom of a liquid in a mixture|sediment|Key term from 4.10: sediment.
+V|4|3|Glassware with a tap, used to separate two immiscible liquids (two words)|separating funnel|From 4.10: separating funnel.
+V|4|1|The cooling of a gas to become a liquid|condensation|Key term from 4.11: condensation.
+V|4|3|A glass tube cooled by water that cools a gas to become a liquid|condenser|Key term from 4.11: condenser.
+V|4|3|The separation of a solution by evaporating the solvent, leaving behind solute crystals|crystallisation;crystallization|Key term from 4.11: crystallisation.
+V|4|2|The separation of liquids with different boiling points by heating|distillation|Key term from 4.11: distillation.
+V|4|2|The separation of a solid from a solution by heating to remove the liquid|evaporation|Key term from 4.11: evaporation.
+V|4|3|The condensed liquid collected at the end of distillation|distillate|From 4.11: distillate.
+V|4|3|A process that removes salt from seawater to make fresh water|desalination|From 4.11: desalination.
+V|4|2|A shallow dish traditionally used by First Nations Peoples to carry water and food and for winnowing seeds|coolamon|Key term from 4.12: coolamon.
+V|4|2|A simple method of separating a mixture of objects by hand (two words)|hand picking;handpicking|Key term from 4.12: hand picking.
+V|4|3|To remove soluble substances by the action of water passing through the material|leach;leaching|Key term from 4.12: leach.
+V|4|1|Using a sieve to separate larger particles from smaller particles|sieving|Key term from 4.12: sieving.
+V|4|2|A poisonous substance produced by a living thing|toxin|Key term from 4.12: toxin.
+V|4|2|Separating a mixture of seeds and husks by blowing air through the mixture|winnowing|Key term from 4.12: winnowing.
+V|4|3|Separating less dense particles from denser ones by shaking a tilted coolamon|yandying|Key term from 4.12: yandying.
+V|4|3|A method of destroying bacteria, often using special light or chlorine|disinfection|Key term from 4.13: disinfection.
+V|4|1|Semi-liquid human waste|sewage|Key term from 4.13: sewage.
+V|4|3|A system of pipes that carry sewage|sewerage|Key term from 4.13: sewerage.
+V|4|3|The water treatment step where alum makes small particles clump together|flocculation|From 4.13: flocculation (the clumps are floc).
+V|4|2|Oil that has not been separated into usable petroleum products|crude oil|Key term from 4.14: crude oil.
+V|4|1|A thin layer of oil on the surface of water|oil slick|Key term from 4.14: oil slick.
+# NUMERICAL: N | chapter | difficulty | question | answer | allowed error (+/-) | unit shown beside the box | explanation
+N|3|1|How many biological characteristics must an organism show to be classified as living?|7|0|characteristics|Growth, movement, nutrition, reproduction, response to stimuli, respiration and waste removal.
+N|3|1|How many levels are in the Linnaean classification system?|8|0|levels|Domain, kingdom, phylum, class, order, family, genus and species.
+N|3|1|How many kingdoms are in the classification system we use in class?|5|0|kingdoms|Animalia, Plantae, Fungi, Protista and Bacteria.
+N|3|1|How many legs does an insect have?|6|0|legs|Insects have 3 pairs of legs.
+N|3|1|How many legs does a spider have?|8|0|legs|Spiders are arachnids, with 4 pairs of legs.
+N|3|1|How many parts are there in cell theory?|3|0|parts|Living things are made of cells, cells are the building blocks of life, and cells come from existing cells.
+N|3|1|How many classes of vertebrate are in the phylum Chordata?|5|0|classes|Fish, amphibians, reptiles, birds and mammals.
+N|3|2|How many legs does a crustacean such as a crab have?|10|0|legs|Crustaceans have 5 pairs of legs.
+N|3|2|In what year did Linnaeus propose his classification system?|1753|0||Linnaeus proposed his system in 1753, and it has been used since the 18th century.
+N|3|2|In what year did Robert Hooke first identify cells?|1665|0||Hooke saw cells in cork through a simple microscope in 1665.
+N|3|2|About what percentage of animal species are invertebrates?|95|0|%|Around 95 per cent of animal species have no backbone.
+N|3|2|Blue whales are the largest vertebrates. Up to how many tonnes can they weigh?|140|0|tonnes|A blue whale can weigh up to 140 tonnes.
+N|3|2|A millipede has two pairs of legs on each segment. How many legs is that per segment?|4|0|legs|2 pairs × 2 legs = 4 legs per segment.
+N|3|2|An ostrich egg cell is about 15 cm wide. How many millimetres is that?|150|0|mm|1 cm = 10 mm, so 15 × 10 = 150 mm.
+N|3|2|How many organelles do animal, plant and fungus cells all have in common?|3|0|organelles|Nucleus, cytoplasm and cell membrane.
+N|3|2|Plant cells have how many extra structures that animal cells lack?|2|0|structures|The cell wall and chloroplasts.
+N|3|2|Adult quokkas weigh between 2.5 and how many kilograms?|5|0|kg|Adults weigh 2.5 to 5 kg.
+N|3|3|In what year did scientists develop the hypothesis about cells that became cell theory?|1839|0||The 1839 hypothesis has been supported by evidence ever since.
+N|3|3|A red blood cell is 0.008 mm wide. How many in a row would stretch 1 mm?|125|0|cells|1 ÷ 0.008 = 125 red blood cells.
+N|3|3|About how many quokkas live on Rottnest Island?|10000|0|quokkas|About 10 000 quokkas live on Rottnest Island.
+N|3|3|Fossils show vertebrates have existed for at least how many million years?|518|0|million years|Vertebrates have existed for at least 518 million years.
+N|3|3|A centipede has 15 body segments with one pair of legs on each. How many legs does it have?|30|0|legs|15 segments × 2 legs = 30 legs.
+N|3|3|A millipede has 20 body segments with two pairs of legs on each. How many legs does it have?|80|0|legs|20 × 2 pairs × 2 legs = 80 legs.
+N|3|3|A jar holds 4 spiders and 3 beetles. How many legs are there altogether?|50|0|legs|4 × 8 = 32 and 3 × 6 = 18, so 32 + 18 = 50.
+N|3|3|Light microscope samples are usually sliced how thin?|0.01|0|mm|Samples must be thin (about 0.01 mm) so light can pass through.
+N|3|4|A sample holds some insects and 3 spiders, with 48 legs in total. How many insects are there?|4|0|insects|Spiders have 3 × 8 = 24 legs, leaving 24 legs ÷ 6 = 4 insects.
+N|3|4|A baby quokka weighs about 35 g and an adult 3.5 kg. How many times heavier is the adult?|100|0|times|3.5 kg = 3500 g, and 3500 ÷ 35 = 100.
+N|3|4|An ostrich egg cell is 150 mm wide and a red blood cell is 0.008 mm wide. How many red blood cells would fit across the egg?|18750|0|cells|150 ÷ 0.008 = 18 750 red blood cells.
+N|4|1|At what temperature does pure water boil?|100|0|°C|Water boils at 100 °C.
+N|4|1|At what temperature does pure water freeze?|0|0|°C|Water freezes at 0 °C.
+N|4|1|What is the density of water?|1|0|g/cm³|Water is 1.0 g/cm³. Less dense objects float, and denser ones sink.
+N|4|1|How many millilitres are in 1 litre?|1000|0|mL|1 L = 1000 mL.
+N|4|1|A block has a mass of 40 g and a volume of 20 cm³. What is its density?|2|0|g/cm³|ρ = m ÷ V = 40 ÷ 20 = 2 g/cm³.
+N|4|1|Ice at 0 °C is heated until the water boils. How many degrees did the temperature rise?|100|0|°C|From 0 °C to 100 °C is a rise of 100 degrees.
+N|4|2|At what temperature is liquid water at its densest?|4|0|°C|Water is most compact at 4 °C.
+N|4|2|Dry ice must be stored at about what temperature? (Type the minus sign.)|-79|1|°C|Dry ice is kept at about −79 °C.
+N|4|2|A piece of wood has a mass of 30 g and a volume of 60 cm³. What is its density?|0.5|0.01|g/cm³|ρ = 30 ÷ 60 = 0.5 g/cm³, so it floats.
+N|4|2|A cork has a mass of 6 g and a volume of 25 cm³. What is its density? (2 decimal places)|0.24|0.01|g/cm³|ρ = 6 ÷ 25 = 0.24 g/cm³.
+N|4|2|A metal bar has a mass of 1.5 kg. What is its mass in grams?|1500|0|g|1.5 × 1000 = 1500 g.
+N|4|2|Convert 0.75 L into millilitres.|750|0|mL|0.75 × 1000 = 750 mL.
+N|4|2|What is the mass of 250 mL of pure water?|250|0|g|Water is 1 g/cm³ and 1 mL = 1 cm³, so 250 mL has a mass of 250 g.
+N|4|2|60 g of sugar is dissolved in 3 L of water. What is the concentration?|20|0|g/L|C = 60 ÷ 3 = 20 g/L.
+N|4|2|25 g of salt is dissolved in 5 L of water. What is the concentration?|5|0|g/L|C = 25 ÷ 5 = 5 g/L.
+N|4|2|According to the textbook's blood figure, plasma makes up about what percentage of blood?|55|0|%|Plasma is about 55% of blood.
+N|4|2|How many main steps are there in Australian water purification?|6|0|steps|Screening, flocculation, sedimentation, filtration, chemical treatment and aeration.
+N|4|3|A glass marble has a mass of 12.5 g and a volume of 5 cm³. What is its density?|2.5|0.05|g/cm³|ρ = 12.5 ÷ 5 = 2.5 g/cm³.
+N|4|3|A silver ring has a density of 10.5 g/cm³ and a volume of 2 cm³. What is its mass?|21|0.1|g|m = ρ × V = 10.5 × 2 = 21 g.
+N|4|3|A piece of aluminium (2.7 g/cm³) has a mass of 54 g. What is its volume?|20|0.1|cm³|V = m ÷ ρ = 54 ÷ 2.7 = 20 cm³.
+N|4|3|9 g of sugar is dissolved to make 300 mL of solution. What is the concentration in g/L?|30|0.1|g/L|300 mL = 0.3 L, so C = 9 ÷ 0.3 = 30 g/L.
+N|4|3|A sports drink has 3 g of salt in 0.5 L. What is its concentration?|6|0|g/L|C = 3 ÷ 0.5 = 6 g/L.
+N|4|3|How many grams of sugar are in 2 L of a 50 g/L sugar solution?|100|0|g|m = C × V = 50 × 2 = 100 g.
+N|4|3|What is the %v/v of 10 mL of cordial in a 200 mL drink?|5|0|%|(10 ÷ 200) × 100 = 5%.
+N|4|3|Alcohol boils at 78 °C. How many degrees lower is that than the boiling point of water?|22|0|°C|100 − 78 = 22 degrees.
+N|4|4|A 2 kg block of wood has a volume of 4000 cm³. What is its density?|0.5|0.01|g/cm³|2 kg = 2000 g, and 2000 ÷ 4000 = 0.5 g/cm³.
+N|4|4|Seawater has a density of 1.03 g/cm³. What is the mass of 500 cm³ of seawater?|515|1|g|m = 1.03 × 500 = 515 g.
+N|4|4|A 120 g/L sugar solution holds 30 g of sugar. What volume is it, in litres?|0.25|0.01|L|V = m ÷ C = 30 ÷ 120 = 0.25 L.
+N|4|4|25 mL of juice is mixed with 225 mL of water. What is the %v/v of juice?|10|0|%|The solution is 250 mL, so (25 ÷ 250) × 100 = 10%.
+N|4|4|Steel is 7.8 g/cm³ and aluminium is 2.7 g/cm³. How many times denser is steel? (1 decimal place)|2.9|0.1|times|7.8 ÷ 2.7 ≈ 2.9.
+N|4|4|In a chromatogram, the solvent moved 10 cm and a yellow dye moved 8 cm. What fraction of the solvent's distance did the dye travel? (decimal)|0.8|0.01||8 ÷ 10 = 0.8. Scientists call this the Rf value.
